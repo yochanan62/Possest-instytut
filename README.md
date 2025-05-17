@@ -13,69 +13,67 @@ Each folder is a filtration axis. Each `.md` file is a trajectory, rupture, or o
 
 ### 🔴 Key Papers
 
-- 📄 **[Parrhesia as a Filtration Singularity](./papers/parrhesia.md)**  
+- 📄 **[Parrhesia as a Filtration Singularity](parrhesia.md)**  
   *Catastrophic recursion of access — the impossibility of truth’s return.*  
-  [Download PDF](./papers/parrhesia.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/parrhesia.pdf)
+  [Download PDF](parrhesia.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/parrhesia.pdf)
 
-- 🌊 **[Bagno — Filtracja niemożliwości](./swamp/bagno.md)**  
+- 🌊 **[Bagno — Filtracja niemożliwości](bagno.md)**  
   *Analiza błota, opóźnień, zalegającej intensywności.*  
-  [Download PDF](./swamp/bagno.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/swamp/bagno.pdf)
+  [Download PDF](bagno.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/bagno.pdf)
 
-- 🧬 **[Possest Calculus](./papers/Possest_Calculus_uk.md)**  
+- 🧬 **[Possest Calculus](Possest_Calculus_uk.md)**  
   *Empiricity as residue — not data, but delay.*  
-  [Download PDF](./papers/Possest_Calculus_uk.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/Possest_Calculus_uk.pdf)
+  [Download PDF](Possest_Calculus_uk.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/Possest_Calculus_uk.pdf)
 
-- 🧠 **[From Neurons to Fields](./papers/astrocyty.md)**  
+- 🧠 **[From Neurons to Fields](astrocyty.md)**  
   *Astrocytic recursion as condition of cognitive access.*  
-  [Download PDF](./papers/astrocyty.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/astrocyty.pdf)
+  [Download PDF](astrocyty.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/astrocyty.pdf)
 
-- 🔥 **[PQF: Ontology of זעזוע (Abulafia)](./papers/abulafia_uk.md)**  
+- 🔥 **[PQF: Ontology of זעזוע (Abulafia)](abulafia_uk.md)**  
   *Letters do not represent. They filter, resonate, rearrange.*  
-  [Download PDF](./papers/abulafia_uk.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/abulafia_uk.pdf)
+  [Download PDF](abulafia_uk.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/abulafia_uk.pdf)
 
-- 🇫🇷 **[PQF : Topologie du זעזוע (FR)](./papers/abulafia_fr.md)**  
+- 🇫🇷 **[PQF : Topologie du זעזוע (FR)](abulafia_fr.md)**  
   *Le souffle filtre avant de signifier.*  
-  [Télécharger PDF](./papers/abulafia_fr.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/abulafia_fr.pdf)
+  [Télécharger PDF](abulafia_fr.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/abulafia_fr.pdf)
 
-- 🧾 **[Physics of the Non-Physical](./papers/norton.md)**  
+- 🧾 **[Physics of the Non-Physical](norton.md)**  
   *Event as fold, not as fact.*  
-  [Download PDF](./papers/norton.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/norton.pdf)
+  [Download PDF](norton.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/norton.pdf)
 
-- 📉 **[Beyond Free Energy (Friston)](./papers/friston.md)**  
+- 📉 **[Beyond Free Energy (Friston)](friston.md)**  
   *Filtration singularities beneath inference.*  
-  [Download PDF](./papers/friston.pdf)  
-  [🔗 View online](https://yochanan62.github.io/possest-institute/papers/friston.pdf)
+  [Download PDF](friston.pdf)  
+  [🔗 View online](https://yochanan62.github.io/possest-institute/friston.pdf)
 
 ---
 
 ## 🔵 Glossary (Operators)
 
-- ⚙️ **[δ*](./glossary/delta-star.md)** — filtration operator  
-- 🔁 **[Recursio Intensitatis](./glossary/recursio-intensitatis.md)** — recursive access  
+- ⚙️ **[δ*](delta-star.md)** — filtration operator  
+- 🔁 **[Recursio Intensitatis](glossary/recursio-intensitatis.md)** — recursive access  
 - 🌀 *(add: Θ, T(x), Z(x), collapse, resonance...)*
 
 ---
 
 ## 🟢 Filters by Domain
 
-- 🧱 **[Swamp](./swamp/intensity.md)** — pre-formal affective field  
-- 📜 **[Manifest Structure](./manifest/structure.md)** — declarations, bifurcations
+- 🧱 **[Swamp](intensity.md)** — pre-formal affective field  
+- 📜 **[Manifest Structure](structure.md)** — declarations, bifurcations
 
 ---
 
 ## 🧭 Repository Navigation
 
-- [`/papers`](./papers) – formal articles and working PDFs  
-- [`/swamp`](./swamp) – unfiltered intensities  
-- [`/glossary`](./glossary) – operators and topological terms  
-- [`/manifest`](./manifest) – PQF declarations
+- All PDFs and `.md` files are currently in the root directory.  
+  Navigate by filenames or links above.
 
 ---
 
