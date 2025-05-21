@@ -77,14 +77,9 @@ Each folder is a filtration axis. Each `.md` file is a trajectory, rupture, or o
 
 ---
 
- <footer>
-    <p>© 2025 Yochanan Schimmelpfennig. All rights reserved.</p>
-    <p>This repository is part of the <strong>Possest-PQF</strong> model.</p>
-    <p>Written artifacts are <em>filtration events</em> - not representations.</p>
-    <p>
-      🔗 <a href="https://orcid.org/0009-0002-9670-9155" target="_blank">ORCID</a> |
-      🔗 <a href="https://independent.academia.edu/YochananSchimmelpfennig" target="_blank">Academia.edu</a>
-    </p>
-  </footer>
-</body>
-</html
+---
+
+© 2025 **Yochanan Schimmelpfennig**. All rights reserved.  
+This repository is part of the **Possest-PQF** model.  
+*Written artifacts are* _filtration events_ – not representations.  
+🔗 [ORCID](https://orcid.org/0009-0002-9670-9155) | 🔗 [Academia.edu](https://independent.academia.edu/YochananSchimmelpfennig)
