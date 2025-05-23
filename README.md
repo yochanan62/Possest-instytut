@@ -56,35 +56,6 @@ Each folder is a filtration axis. Each `.md` file is a trajectory, rupture, or o
 
 ---
 
-## 📘 Possest–PQF: Zbiór 25 publikacji z DOI
-
-
-1. [Beyond Computation: Possest–PQF and the Topologies of Intelligence](https://doi.org/10.5281/zenodo.15498062)
-2. [Entropy and the Ontology of Filtration: A Topological Reframing](https://doi.org/10.5281/zenodo.15498063)
-3. [Evental Intensity: A Post-Anthropocentric Ontology of Thought (v.2)](https://doi.org/10.5281/zenodo.15498064)
-4. [Evental Intensity: A Post-Anthropocentric Ontology of Thought (v.1)](https://doi.org/10.5281/zenodo.15498065)
-5. [Filtration Against Recursion: The Possest–PQF Model](https://doi.org/10.5281/zenodo.15498066)
-6. [From ψ to δ∗: A Filtrational Reformulation of Quantum Accessibility](https://doi.org/10.5281/zenodo.15498067)
-7. [From Neurons to Fields: Astrocytic Filtering and the End of Centralized Cognition](https://doi.org/10.5281/zenodo.15498068)
-8. [Gauge as Topology of Accessibility: A Filtrational Rewriting of the AB Effect and the Operator Aμ](https://doi.org/10.5281/zenodo.15498069)
-9. [Parrhesia as a Filtration Singularity Interpreted through the PQF Model](https://doi.org/10.5281/zenodo.15498070)
-10. [Phase Without Chaos: Possest–PQF Versus Landau](https://doi.org/10.5281/zenodo.15498071)
-11. [Phenomenology as Topology of Intensity: Filtrational Response to DeLanda](https://doi.org/10.5281/zenodo.15498072)
-12. [Physics of the Non-Physical: Possest–PQF and the Irreducible Field of Access](https://doi.org/10.5281/zenodo.15498073)
-13. [Possest–PQF: Mathematics of Filtration – Δ–Formalization of Access and Recursio](https://doi.org/10.5281/zenodo.15498074)
-14. [Possest Calculus: Reconstructing Empiricity as the Filtrational Survival of Difference](https://doi.org/10.5281/zenodo.15498075)
-15. [Possest–PQF: Rewriting Physics Through Filtration Phase Space](https://doi.org/10.5281/zenodo.15498076)
-16. [Possest–PQF: Rhythmic Ontogenesis and the Filtrational Topology of Consciousness](https://doi.org/10.5281/zenodo.15498077)
-17. [Possest–Swamp–America: Topologies of Filtrational Failure and Nonhuman Bifurcation](https://doi.org/10.5281/zenodo.15498078)
-18. [PQF: Ontology of Zazua and the Architecture of Tension](https://doi.org/10.5281/zenodo.15498079)
-19. [PQF: Symulacje Recursio Intensitatis](https://doi.org/10.5281/zenodo.15498080)
-20. [PQF: Topologie du זעזוע](https://doi.org/10.5281/zenodo.15498081)
-21. [Reality as Dynamic Filtration: Beyond Hidden Variables](https://doi.org/10.5281/zenodo.15498082)
-22. [Reconstructing Empiricity as the Filtrational Survival of Difference](https://doi.org/10.5281/zenodo.15498083)
-23. [The Filter Has a Body: Contingency, Recursion, and Reorganization](https://doi.org/10.5281/zenodo.15498084)
-24. [Topology as Tension: Filtrational Consciousness in the PQF Framework](https://doi.org/10.5281/zenodo.15498085)
-25. [Topology of Consciousness: A Grammar of Filtrational Collapse](https://doi.org/10.5281/zenodo.15498086)
-
 
 ---
 
