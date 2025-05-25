@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Filtracyjny próg kodu halachicznego",
+    "authors": [
+      "J. Possest",
+      "A. M. Cohen"
+    ],
+    "year": 2023,
+    "doi": "10.5281/zenodo.1234567",
+    "pdf": "https://zenodo.org/record/1234567/files/halakhic-threshold.pdf",
+    "bibtex": "@article{possc2023halakhic,\n  title={Filtracyjny próg kodu halachicznego},\n  author={Possest, J. and Cohen, A. M.},\n  journal={Possest Working Papers},\n  year={2023},\n  doi={10.5281/zenodo.1234567}\n}"
+  },
+  {
+    "title": "Diagram filtracyjny PQF",
+    "authors": [
+      "J. Possest"
+    ],
+    "year": 2024,
+    "doi": "10.5281/zenodo.7654321",
+    "pdf": "https://zenodo.org/record/7654321/files/pqf-diagram.pdf",
+    "bibtex": "@misc{possc2024diagram,\n  title={Diagram filtracyjny PQF},\n  author={Possest, J.},\n  year={2024},\n  doi={10.5281/zenodo.7654321}\n}"
+  }
+]
