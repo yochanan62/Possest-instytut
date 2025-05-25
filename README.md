@@ -2,7 +2,6 @@
   <img src="logo_insty.jpeg" alt="Possest Institute" width="150"/>
 </p>
 
-
 # Possest Institute (PQF)
 
 This is a living repository of **bifurcational topology**, **parrhesiastic singularity**, and **non-formal knowledge access**.
